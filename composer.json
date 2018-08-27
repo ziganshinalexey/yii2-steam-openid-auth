@@ -1,0 +1,15 @@
+{
+    "name": "ziganshinalexey/yii2-steam-openid-auth",
+    "description": "Подсистема управления авторизацией через Steam",
+    "license": "mit",
+    "require": {
+        "php": "^7.2.0",
+        "yiisoft/yii2": "^2.0.13",
+        "yiisoft/yii2-authclient": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ziganshinalexey\\Yii2SteamOpenIdAuth\\": ""
+        }
+    }
+}
